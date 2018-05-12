@@ -1,0 +1,37 @@
+_repo: The-Builders_37463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37463-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: While the idealistic David Blackburn tries to improve the world with
+  a new invention, his beautiful and formidable wife Angelica subtly and ruthlessly
+  manipulates those around her. This 1919 novel of politics and patriotism, written
+  about the aftermath of the First World War, reflects Glasgow's belief that individual
+  discipline is the key to peace.
+gutenberg_issued: '2011-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nurses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Richmond (Va.) -- Fiction'
+- !lcsh 'Sick children -- Fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Builders
+url: http://www.gutenberg.org/ebooks/37463
